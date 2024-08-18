@@ -65,10 +65,10 @@ on:
       kernel_sign:
         description: "Set the kernel custom signature"
         required: false
-        default: "-rk35xx-ophub"
+        default: "-rk35xx-danteliu119"
         type: choice
         options:
-          - -rk35xx-ophub
+          - -rk35xx-danteliu119
           - -happy-new-year
           - -dragon-boat-festival
           - -mid-autumn-festival
